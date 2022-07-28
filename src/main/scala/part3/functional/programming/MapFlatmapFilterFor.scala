@@ -38,8 +38,4 @@ object MapFlatmapFilterFor extends App {
   } yield "" + c + c + "-" + color
   println(forCombinations)
 
-
-  // implement a small collection of at most ONE element - Maybe[+T]
-  //      - map,flatMap,filter
-  abstract class
 }
